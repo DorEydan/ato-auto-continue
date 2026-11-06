@@ -11,7 +11,7 @@ A BepInEx mod for [Across the Obelisk](https://store.steampowered.com/app/138538
 
 ## Status
 
-Compiles against the game's assemblies, but has not yet been confirmed in-game.
+Tested and working in-game.
 
 ## Requirements
 
@@ -36,3 +36,7 @@ The config file `BepInEx\config\local.ato.autocontinue.cfg` is created on first 
 |---|---|---|
 | `Enabled` | `true` | Turns the mod on or off |
 | `DelaySeconds` | `1.5` | Seconds the result stays on screen before the press, from 0 to 30 |
+
+## License
+
+Free to use, modify and share under the [MIT License](LICENSE). This covers the mod's own code only, not Across the Obelisk or its files.
